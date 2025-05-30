@@ -1,76 +1,21 @@
-<h1 align="center">Hi 👋, I'm Dhanish Kumar</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Computer+Science+Student;Building+with+Firebase&center=true&width=380&height=45">
-</h3>
+# 💫 About Me:
+🧑‍💻 I’m currently working on Frontend Developer<br>🤝 I’m looking to collaborate on web development and React projects
 
-<p align="center">
-  <a href="https://github.com/dhanishkumar">
-    <img src="https://img.shields.io/github/followers/dhanishkumar?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://linkedin.com/in/dhanish-kumar-533aaa173" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:itsvgin@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Optional Resume Badge -->
-  <!-- <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-blue" />
-  </a> -->
-</p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1AUY9kX8UK/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhanishrajput007?igsh=bHZ3djZleTJvMTc4&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/dhanish-kumar-533aaa173) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhanishkumar2001@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhanishkumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhanishkumar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishkumar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhanishkumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dhanishkumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧑‍💻 About Me :
-
-- 🧑‍💻 I’m currently working on a **Gym Management System** using React and Firebase  
-- 🤝 I’m looking to collaborate on **web development and React projects**  
-- 🧠 I’m currently learning **backend integration with Node.js and Express**  
-- 💬 Ask me about **Tailwind, Firebase, React, and responsive design**  
-- ⚡ Fun fact: I enjoy debugging more than coding sometimes!
-
----
-
-### 🚀 Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 💪 Gym Management System | React, Firebase, Tailwind | A complete gym website with admin, member, and user modules |
-| 🛒 Shopping Cart | React, Context API, Portals | Feature-rich cart using reducers and reusable components |
-| 🎓 Student Management | React, CRUD, Vite, Tailwind | Handles student records with search & pagination |
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase,git,github,nodejs,express" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanishkumar&show_icons=true&theme=radical" alt="dhanishkumar stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanishkumar&theme=radical" alt="dhanishkumar streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishkumar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:itsvgin@gmail.com"><img src="https://img.shields.io/badge/Gmail-itsvgin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/dhanish-kumar-533aaa173"><img src="https://img.shields.io/badge/LinkedIn-Dhanish%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dhanishkumar"><img src="https://img.shields.io/badge/GitHub-dhanishkumar-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  🛠️ Crafted with ❤️ using <a href="https://gprm.itsvg.in" target="_blank">GPRM</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

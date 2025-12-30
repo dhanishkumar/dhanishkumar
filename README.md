@@ -18,7 +18,7 @@
 - 🎓 **Degree:** B.Tech – Computer Science (2025)  
 - 🏫 **University:** Galgotias University  
 - 💼 **Role:** Software Tester | QA (Fresher)  
-- 🌍 **Location:** India  
+- 🌍 **Location:** Noida  
 - 📧 **Email:** dhanishkumar2001@gmail.com  
 - 🔗 **GitHub:** https://github.com/dhanishkumar  
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/dhanishkumar2001  

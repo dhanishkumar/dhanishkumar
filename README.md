@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Dhanish Kumar  
 
+### 🧪 Software Tester | Manual & Automation (Selenium + Java)
+
+---
+
 ## 💫 About Me:
 🔭 Working on **Manual & Automation Testing projects** using Selenium WebDriver  
 👯 Open to **QA & Selenium Automation collaborations**  
@@ -30,34 +34,63 @@
 ---
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-Automation-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🧪 Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green?style=for-the-badge&logo=selenium)
 ![TestNG](https://img.shields.io/badge/TestNG-Framework-red?style=for-the-badge)
-![Apache Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-QA-blue?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-UI_Testing-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-UI_Testing-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-121011?style=for-the-badge&logo=github&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-Automation-purple?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?style=for-the-badge&logo=jira)
+
+### 🤖 Automation & Programming
+![Java](https://img.shields.io/badge/Java-Automation-orange?style=for-the-badge&logo=openjdk)
+![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven)
+
+### 🌐 Web (UI Testing)
+![HTML5](https://img.shields.io/badge/HTML5-UI_Testing-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-UI_Testing-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Responsive_UI-8511FA?style=for-the-badge&logo=bootstrap)
+
+### 🔌 API, DB & Tools
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-121011?style=for-the-badge&logo=github)
 
 ---
 
 ## 🚀 Automation Project Showcase:
-- 🔹 **Login Automation Framework**  
-  Selenium WebDriver + Java + TestNG with Page Object Model  
 
-- 🔹 **E-Commerce Website Testing**  
-  Manual & Automation testing for Login, Cart & Checkout flows  
+### 🔹 Selenium Login Automation Framework
+- Selenium WebDriver + Java + TestNG  
+- Page Object Model (POM) design  
+- Valid & Invalid login scenarios  
+- Screenshot capture on test failure  
+- Maven execution (`mvn test`)  
 
-- 🔹 **Automation Practice Suite**  
-  Alerts, Frames, Windows, Dropdowns, Date Pickers  
+### 🔹 E-Commerce Web Application Testing
+- Manual & Automation testing  
+- Login, Product Search, Cart & Checkout flows  
+- Regression testing for critical features  
+- Defect tracking using Jira  
+
+### 🔹 Automation Practice Suite
+- Alerts, Frames & Windows handling  
+- Dropdowns, Date Pickers & Wait strategies  
+- XPath & CSS Selector optimization  
 
 ---
 
-# 📊 GitHub Stats:
+## 📌 What I Do as a QA Engineer:
+- Analyze requirements & write test cases  
+- Execute manual & automation test cases  
+- Identify, log & track defects  
+- Perform smoke, sanity & regression testing  
+- Ensure high-quality, bug-free releases  
+
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dhanishkumar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dhanishkumar&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishkumar&theme=radical&hide_border=false&layout=compact)
@@ -69,7 +102,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=dhanishkumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
